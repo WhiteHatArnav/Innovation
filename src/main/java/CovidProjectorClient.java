@@ -12,7 +12,7 @@ public class CovidProjectorClient {
 
 	public CovidProjectorClient(double maskers, boolean caseEntry, int avgCases, List<Integer> casesDataset, int linExp) {
 		this.maskers = maskers;
-	    this.linExp = linExp;
+	        this.linExp = linExp;
 		if(!caseEntry) 
 		this.avgCases = avgCases;
 		else
