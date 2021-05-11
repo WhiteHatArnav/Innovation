@@ -1,3 +1,5 @@
+//Work in progress. Project was paused to focus on more relevant oython based data analysis of the Covid Surge and resource shortage in India. 
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
